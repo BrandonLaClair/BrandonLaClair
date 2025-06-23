@@ -1,4 +1,3 @@
-<!--
 # Hi, I'm Brandon LaClair
 
 I'm an IT Professional with a passion for information security. I focus on blue-teaming practices: threat detection, log analysis, and automation using tools like Python, PowerShell, and SIEMs.
@@ -35,6 +34,4 @@ I'm an IT Professional with a passion for information security. I focus on blue-
 
 - [Email Me] brandonlaclair12@gmail.com
 - [LinkedIn] www.linkedin.com/in/brandonlaclair
-
----
 
