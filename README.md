@@ -7,7 +7,7 @@ I'm an IT Professional with a passion for information security. I focus on blue-
 
 - Bachelors Degree in Computer Information Systems
 - Security+ CE Certified
-- CYSA+ (In Progress - Exam scheduled for July 5th)
+- CYSA+ (In Progress)
 
 ## Core Skills
 
