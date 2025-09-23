@@ -8,8 +8,8 @@ I'm an IT Professional with a passion for information security. I focus on blue-
 - Bachelors Degree in Computer Information Systems
 - Security+ CE Certified
 - A+ CE Certified
-- Network+ (In Progress) Goal to be certified by: Oct. 31st, 2025 
-- CYSA+ (In Progress) Goal to be certified by: Dec. 1st, 2025
+- Network+ (In Progress - Target: Oct. 31st, 2025) 
+- CYSA+ (In Progress - Target: Dec. 1st, 2025)
 
 ## Core Skills
 
