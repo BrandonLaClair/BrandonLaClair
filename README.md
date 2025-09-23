@@ -11,16 +11,15 @@ I'm an IT Professional with a passion for information security. I focus on blue-
 - Network+ (In Progress - Target: Oct. 31st, 2025) 
 - CYSA+ (In Progress - Target: Dec. 1st, 2025)
 
-## Core Skills
+## Core Skills ##
 
-- Security Analytics | SOC Operations | Threat Hunting
-- Python Automation | PowerShell Scripting | Log Analysis
-- Splunk | Aternity | Intune | Azure | Wireshark
-- Windows Internals | Registry | Group Policy | SCCM
+- Security & Analysis: SOC Operations, Threat Hunting, Log Anyalysis, MITRE ATT&CK Frameworks
+- Tools & Platforms: Splunk, Intune, Aternity, Azure, Active Directory 
+- Scripting & Automation: Python, Powershell, Command Line Commands
 
 ---
 
-## Projects in Progress
+## Projects in Progress ##
 
 - Security Monitoring Home Lab                                                                                                             
      - Deploy a lightweight 3-VM lab environment: Windows 11, Kali Linux, and Ubuntu Splunk SIEM.
@@ -40,7 +39,7 @@ I'm an IT Professional with a passion for information security. I focus on blue-
 
 ---
 
-## Let's Connect
+## Let's Connect ##
 
 - [Email Me] brandonlaclair12@gmail.com
 - [LinkedIn] www.linkedin.com/in/brandonlaclair
