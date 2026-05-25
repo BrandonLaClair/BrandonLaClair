@@ -32,7 +32,7 @@ Scripting: PowerShell, Python
 
 ## Projects in Progress ##
 
-## Home Lab — Enterprise Identity and Security
+**Home Lab — Enterprise Identity and Security**
 
 - Built Windows Server domain environment with Domain 
 Controller, file server, and domain-joined Windows 11 
