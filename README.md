@@ -1,6 +1,6 @@
 # Hi, I'm Brandon LaClair
 
-I'm an IT Professional with a passion for information security. I focus on blue-teaming practices: threat detection, log analysis, and automation using tools like Python, PowerShell, and SIEMs.
+I'm an IT Professional with a passion for identity and access management with a focus on GRC and security program development in regulated healthcare environments.
 
 ---
 ## Education ##
@@ -8,32 +8,54 @@ I'm an IT Professional with a passion for information security. I focus on blue-
 - Bachelors Degree in Computer Information Systems
 - Security+ CE Certified
 - A+ CE Certified
-- Network+ (In Progress - Target: Oct. 31st, 2025) 
-- CYSA+ (In Progress - Target: Dec. 1st, 2025)
+- Network+ CE Certified 
+- AZ-104 Microsoft Azure Administrator — In Progress
+- SC-300 Microsoft Identity and Access Administrator — Planned
 
 ## Core Skills ##
 
-- Security & Analysis: SOC Operations, Threat Hunting, Log Anyalysis, MITRE ATT&CK Frameworks
-- Tools & Platforms: Splunk, Intune, Aternity, Azure, Active Directory 
-- Scripting & Automation: Python, Powershell, Command Line Commands
+Identity and Access Management: Active Directory, 
+Microsoft Entra ID, Hybrid Identity, SAML SSO, OAuth, 
+Imprivata, Dynamic Groups, Joiner/Mover/Leaver Lifecycle
 
+Security: Microsoft Purview, MITRE ATT&CK, BitDefender EDR, 
+NIST 800-53, HIPAA, GRC Compliance, Incident Response
+
+Cloud and M365: Azure, Entra ID, SharePoint Online, 
+Exchange Online, Microsoft Teams, Microsoft Purview
+
+Networking: Cisco Switching, VLANs, DHCP, DNS, 
+Layer 1-3 Troubleshooting
+
+Scripting: PowerShell, Python
 ---
 
 ## Projects in Progress ##
 
-- Security Monitoring Home Lab                                                                                                             
-     - Deploy a lightweight 3-VM lab environment: Windows 11, Kali Linux, and Ubuntu Splunk SIEM.
-     - Investigate host and network IOCs using Event Viewer, Registry Editor, PowerShell, Sysmon, and Wireshark.
-     - Integrate Splunk to aggregate logs, correlate events, and simulate alerts for failed logins, PowerShell execution, and DNS anomalies.
-     - Align detection logic with MITRE ATT&CK and practiced incident triage and response workflows.
- 
-- Windows Log Analysis Tool                                                                                               
-     - Technology Stack: Python, Tkinter, Windows Event Logs.
-     - Built a local GUI-based Python tool to analyze .evtx Windows event log files for suspicious activity.
-     - Implemented real-time filtering by Event ID and Computer Name to simulate SOC triage.
-     - Displays logs in real-time, provides actionable insights, and supports exportable JSON reporting.
-     - Designed to assist defenders and analysts in reducing manual effort when reviewing logs.
+## Home Lab — Enterprise Identity and Security
 
+- Built Windows Server domain environment with Domain 
+Controller, file server, and domain-joined Windows 11 
+endpoints
+
+- Implemented AGDLP access control model for network 
+share governance — configured security group nesting, 
+NTFS permissions, and Access Based Enumeration for 
+department based file share access
+
+- Configured Group Policy for automatic NAS drive mapping 
+at login based on user group membership — eliminating 
+manual drive assignment during onboarding
+
+- Applied GPO security hardening including password policy, 
+account lockout, NTLM hardening, and audit policy 
+enforcement across domain endpoints
+
+**AZ-104 Azure Lab Practice**
+Hands-on lab work in Azure free tier covering virtual 
+machines, storage accounts, virtual networks, RBAC 
+assignments, Azure Policy, and resource management 
+as part of AZ-104 exam preparation.
 
 
 
