@@ -7,8 +7,8 @@ I'm an IT Professional with a passion for identity and access management with a 
 
 - Bachelors Degree in Computer Information Systems
 - Security+ CE Certified
-- A+ CE Certified
 - Network+ CE Certified 
+- A+ CE Certified
 - AZ-104 Microsoft Azure Administrator — In Progress
 - SC-300 Microsoft Identity and Access Administrator — Planned
 
